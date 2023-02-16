@@ -11,7 +11,7 @@ redirect_from:
 I am currently an assistant professor at Hunan University, School of Mathematics. I recieved my Ph.D. in 2023 from Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in Mathematics under the supervision of [Jialin Hong](http://www.cc.ac.cn/staff/hjl.html). My email address is: zt@lsec.cc.ac.cn
 
 
-My research interests are probability theory with focus on interactions with statistical physics, theory of computer science and statistical inference: random walks, Gaussian processes, random constraint satisfaction problems, random planar geometry, spin models, random Schrodinger operators, network recovery problems, etc.
+My research interests are probability theory with focus on ergodicity, probability limit theorems (LDP, CLT, LLN), hitting probabilities, normal approximate and Stein method, etc.
 
 News
 ======
