@@ -82,7 +82,11 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor 
+                      Hunan University 
+                      School of Mathematics 
+                      Office: 413 
+                      E-mail: zt@lsec.cc.ac.cn"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
