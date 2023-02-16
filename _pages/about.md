@@ -13,7 +13,7 @@ I am a Ph.D student at Academy of Mathematics and Systems Science, Chinese Acade
 
 My research interests are probability theory with focus on interactions with statistical physics, theory of computer science and statistical inference: random walks, Gaussian processes, random constraint satisfaction problems, random planar geometry, spin models, random Schrodinger operators, network recovery problems, etc.
 
-A data-driven personal website
+News
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
