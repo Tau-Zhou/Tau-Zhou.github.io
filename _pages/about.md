@@ -15,8 +15,9 @@ My research interests are probability theory with focus on ergodicity, probabili
 
 News
 ======
-1. 02.13/2023, the manuscript, entitled "Strong error analysis of Euler methods for overdamped generalized Langevin equations with fractional noise: Nonlinear case", has been accepted for publication in ESAIM: Mathematical Modelling and Numerical Analysis. 
-1. 11.25/2022, the manuscript, entitled " CLT for approximating ergodic limit of SPDEs via a full discretization", has been accepted for publication in Stochastic Processes and their Applications.   
+1. 13-Feb-2023, the manuscript, entitled "Strong error analysis of Euler methods for overdamped generalized Langevin equations with fractional noise: Nonlinear case", has been accepted for publication in ESAIM: Mathematical Modelling and Numerical Analysis. 
+1. 25-Nov-2022, the manuscript, entitled " CLT for approximating ergodic limit of SPDEs via a full discretization", has been accepted for publication in Stochastic Processes and their Applications. 
+1. 19-Aug-2022, the manuscript, entitled "A splitting semi-implicit Euler method for stochastic incompressible Euler equations on $\mathbb T^2$" has been accepted for publication in IMA Journal of Numerical Analysis.  
 
 
 
