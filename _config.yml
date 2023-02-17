@@ -28,7 +28,7 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
-    num_posts            : # 5 (default)
+    num_posts            : # 7 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "About me"
   avatar           : "profile.png"
-  bio              : "Assistant Professor\\ 
-                      Hunan University\\
-                      School of Mathematics\\ 
-                      Office: 413\\ 
+  bio              : "Assistant Professor
+                      Hunan University
+                      School of Mathematics 
+                      Office: 413
                       E-mail: zt@lsec.cc.ac.cn"
   location         : "Location"
   employer         :
