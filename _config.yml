@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "About me"
   avatar           : "profile.png"
-  bio              : "Assistant Professor 
-                      Hunan University 
-                      School of Mathematics 
-                      Office: 413 
+  bio              : "Assistant Professor\\ 
+                      Hunan University\\
+                      School of Mathematics\\ 
+                      Office: 413\\ 
                       E-mail: zt@lsec.cc.ac.cn"
   location         : "Location"
   employer         :
