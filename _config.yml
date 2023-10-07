@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tau Zhou / Home"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tau Zhou"
 description              : &description "personal description"
 url                      : https://tau-zhou.github.io # the base hostname & protocol for your site e.g. "https://tau-zhou.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "About me"
   avatar           : "profile.png"
-  bio              : "Assistant Professor
+  bio              : "Postdoctoral fellow
                       **
-                      School of Mathematics 
-                      Office: 413
-                      E-mail: zt@lsec.cc.ac.cn"
+                      AMA, PolyU 
+                      Office: VA/TU ***
+                      E-mail: tau.zhou@polyu.edu.hk"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
