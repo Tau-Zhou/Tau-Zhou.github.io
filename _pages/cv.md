@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Changsha, Hunan Normal University, 2014.9-2018.6
-* Ph.D in Beijing, Chinese Academy of Sciences, 2018.9-2023.6 (expected)
+* Ph.D in Beijing, Chinese Academy of Sciences, 2018.9-2023.6
 
 Work experience
 ======
