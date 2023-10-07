@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
  
-I recieved my Ph.D. in 2023 from Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in Mathematics under the supervision of [Jialin Hong](http://www.cc.ac.cn/staff/hjl.html). My email address is: zt@lsec.cc.ac.cn
+
+I am currently a postdoctoral fellow at PolyU. I recieved my Ph.D. in 2023 from Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in Mathematics under the supervision of [Jialin Hong](http://www.cc.ac.cn/staff/hjl.html). My email address is: tau.zhou@polyu.edu.hk.
 
 
-My research interests are probability theory with focus on ergodicity, probability limit theorems (LDP, CLT, LLN), hitting probabilities, normal approximate and Stein method, etc.
+My research interests are probability theory with focus on optimal transport, nonlinear diffusion equations, ergodicity, probability limit theorems (LDP, CLT, LLN), hitting probabilities, normal approximate and Stein method, etc.
 
 News
 ======
